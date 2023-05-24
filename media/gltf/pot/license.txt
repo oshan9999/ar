@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Flower Pot
+* source:	https://sketchfab.com/3d-models/stylized-flower-pot-2f0507e4c4b342e286e3dfde052508b6
+* author:	Agustín Hönnun (https://sketchfab.com/Agustin_Honnun)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Flower Pot" (https://sketchfab.com/3d-models/stylized-flower-pot-2f0507e4c4b342e286e3dfde052508b6) by Agustín Hönnun (https://sketchfab.com/Agustin_Honnun) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

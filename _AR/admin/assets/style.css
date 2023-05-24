@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Mada:400,500,600,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Mada', sans-serif;
+}
+
+
+/*Admin Login Form*/
+.admin-login .card-body.p-5{
+   border: 1px solid rgb(236, 236, 236);
+   border-radius: 3px;
+}
+
+.admin-login h3{
+    text-align: center;
+}
+
+/* ERROR CSS */
+.field-error{
+    margin-bottom: 1rem;
+    color: red;
+}
